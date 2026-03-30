@@ -7,9 +7,13 @@ Passionate Software Engineer with a deep focus on the .NET ecosystem, specializi
 
 ### 🚀 What I Do
 **Build Scalable APIs**: Expert in **ASP.NET Core** and RESTful services.
+
 **Architectural Integrity**: Apply **Clean Architecture** and **Domain-Driven Design (DDD)** to decouple business logic.
+
 **Performance Optimization**: Design systems using **CQRS** for high-performance and separation of concerns.
+
 **Reactive Frontend**: Improve application responsiveness using **Angular** with `ChangeDetectionStrategy.OnPush`.
+
 **Data Consistency**: Ensure 100% consistency in high-volume systems by isolating complex rules into dedicated **Domain Layers**.
 
 ### 🧠 Engineering Focus
