@@ -6,7 +6,7 @@ Passionate Software Engineer with a deep focus on the .NET ecosystem, specializi
 ---
 
 ### 🚀 What I Do
-**Build Scalable APIs**: Expert in **ASP.NET Core** and RESTful services.
+**Build Scalable APIs**: Design and develop RESTful APIs using ASP.NET Core, applying clean architecture, CQRS, and efficient data access patterns to support high-load systems.
 
 **Architectural Integrity**: Apply **Clean Architecture** and **Domain-Driven Design (DDD)** to decouple business logic.
 
