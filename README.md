@@ -12,7 +12,7 @@ Passionate Software Engineer with a deep focus on the .NET ecosystem, specializi
 
 **Performance Optimization**: Design systems using **CQRS** for high-performance and separation of concerns.
 
-**Reactive Frontend**: Improve application responsiveness using **Angular** with `ChangeDetectionStrategy.OnPush`.
+**Reactive Frontend**: Optimize Angular performance using `ChangeDetectionStrategy.OnPush` and RxJS by controlling change detection cycles explicitly, reducing unnecessary DOM updates, and ensuring efficient rendering in high-frequency data scenarios such as ERP systems and real-time form interactions.
 
 **Data Consistency**: Ensure 100% consistency in high-volume systems by isolating complex rules into dedicated **Domain Layers**.
 
@@ -34,7 +34,7 @@ Passionate Software Engineer with a deep focus on the .NET ecosystem, specializi
 | :--- | :--- |
 | **Backend** | .NET Core, ASP.NET Core, EF Core, SQL Server, LINQ 
 | **Frontend** | Angular, TypeScript, RxJS, JavaScript (ES6), HTML5/CSS3 
-| **Architecture** | Clean Architecture, DDD, CQRS, OnPush Strategy
+| **Architecture** | Clean Architecture, DDD, CQRS
 
 ### 🌍 Let's Connect
  [linkedin.com/in/ahmedyousefahmed](https://www.linkedin.com/in/ahmedyousefahmed) 
