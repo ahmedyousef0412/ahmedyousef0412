@@ -28,10 +28,10 @@ Passionate Software Engineer with a deep focus on the .NET ecosystem, specializi
 ### 🛠️ Tech Stack
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Backend** | [cite_start].NET Core, ASP.NET Core, EF Core, SQL Server, LINQ 
-| **Frontend** | [cite_start]Angular, TypeScript, RxJS, JavaScript (ES6), HTML5/CSS3 
-| **Architecture** | [cite_start]Clean Architecture, DDD, CQRS, OnPush Strategy
+| **Backend** | .NET Core, ASP.NET Core, EF Core, SQL Server, LINQ 
+| **Frontend** | Angular, TypeScript, RxJS, JavaScript (ES6), HTML5/CSS3 
+| **Architecture** | Clean Architecture, DDD, CQRS, OnPush Strategy
 
 ### 🌍 Let's Connect
  [linkedin.com/in/ahmedyousefahmed](https://www.linkedin.com/in/ahmedyousefahmed) 
-* [cite_start]**Email**: [ahmedyousef0412@gmail.com](mailto:ahmedyousef0412@gmail.com) 
+ **Email**: [ahmedyousef0412@gmail.com](mailto:ahmedyousef0412@gmail.com) 
