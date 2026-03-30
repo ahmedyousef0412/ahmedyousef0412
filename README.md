@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Ahmed Yousef 👋
+### Software Engineer | .NET & Angular Specialist
 
-<!--
-**ahmedyousef0412/ahmedyousef0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate Software Engineer with a deep focus on the .NET ecosystem, specializing in building scalable, maintainable systems using modern architectural patterns. I focus on solving real-world business problems by designing maintainable, testable, and efficient systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+**Build Scalable APIs**: Expert in **ASP.NET Core** and RESTful services.
+**Architectural Integrity**: Apply **Clean Architecture** and **Domain-Driven Design (DDD)** to decouple business logic.
+**Performance Optimization**: Design systems using **CQRS** for high-performance and separation of concerns.
+**Reactive Frontend**: Improve application responsiveness using **Angular** with `ChangeDetectionStrategy.OnPush`.
+**Data Consistency**: Ensure 100% consistency in high-volume systems by isolating complex rules into dedicated **Domain Layers**.
+
+### 🧠 Engineering Focus
+**Domain Centricity**: Isolating complex business logic to ensure testability and long-term maintenance.
+**System Scalability**: Designing for high-load environments and high-frequency data entry.
+**Modern Frontend**: Leveraging RxJS and OnPush strategies to minimize application memory footprints.
+
+### 💼 Experience Highlights
+* **High-Performance Order Engine** (Applied Science International)  
+  Built using **CQRS** and **DDD** to ensure 100% data consistency during high-volume periods.
+* **Icons - ERP System** (Encooders)  
+ Architected a reactive lookup system in **Angular** that improved responsiveness for high-frequency data entry.
+* **Irrigation Web App** (Saudi Arabia)  
+ Lead developer for a regional conference hub, handling attendee registration and event coordination.
+
+### 🛠️ Tech Stack
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Backend** | [cite_start].NET Core, ASP.NET Core, EF Core, SQL Server, LINQ 
+| **Frontend** | [cite_start]Angular, TypeScript, RxJS, JavaScript (ES6), HTML5/CSS3 
+| **Architecture** | [cite_start]Clean Architecture, DDD, CQRS, OnPush Strategy
+
+### 🌍 Let's Connect
+ [linkedin.com/in/ahmedyousefahmed](https://www.linkedin.com/in/ahmedyousefahmed) 
+* [cite_start]**Email**: [ahmedyousef0412@gmail.com](mailto:ahmedyousef0412@gmail.com) 
